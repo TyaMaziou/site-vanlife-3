@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"header"
+			],
+			[
+				"re",
+				"href"
+			],
+			[
+				"bl",
+				"darkblue"
+			],
+			[
+				"texte",
+				"text-decoration-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"whi",
+				"whitesmoke"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"blue",
+				"aliceblue"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 100.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Mon site/Tya Maziere 1T2 Mon site/js/recherches.php",
+		"/E/Mon Site/Tya Maziere 1T2 Mon site/Actualités.html",
+		"/E/Mon Site/css/styles.css",
+		"/E/Mon site/contact.html",
+		"/E/Mon site/news.html",
+		"/E/Mon site/doc/contact.html",
+		"/E/Mon site/doc",
+		"/E/Mon Site/img/travel.jfif",
+		"/E/Mon site/index.html",
+		"/E/Mon site/js",
+		"/E/Mon site/css/styles.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "styles.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

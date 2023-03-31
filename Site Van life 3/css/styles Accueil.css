@@ -1,0 +1,142 @@
+
+
+
+
+
+/*fond d'ecran video*/
+#background-video {
+height: 100vh;
+width: 100vw;
+object-fit: cover;
+position: fixed;
+left: 0;
+right: 0;
+top: 0;
+bottom: 0;
+z-index: -1;
+}
+/*contenu sous forme de boite (video)*/
+
+div#content div{
+	display: inline-block;
+	width: 48%;
+}
+
+div#content div h2 p, iframe{
+	margin: 30px;
+
+}
+
+div#content div.leftbox{
+	vertical-align: top;
+}
+
+div#content div.rightbox{
+	vertical-align: bottom;
+}
+
+
+/*bouttons*/
+nav.menu-nav ul li.btn a{
+	color: whitesmoke;
+	text-decoration: none;
+	background-color: burlywood;
+}
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none ;
+	padding: 10px;
+	font-size: 30px;
+}
+
+ul li.btn a {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all .35s;
+}
+
+a:after{
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: #EAF692;
+  transition: all .35s;
+}
+
+a span{
+  position: relative;
+  z-index: 2;
+}
+
+a:hover{
+  color: #fff;
+}
+
+a:hover:after{
+  width: 100%;
+}
+
+
+nav.menu-nav ul li.btn:hover a{
+	color: white;
+	background-color: #4C5097;s
+	transition: 0.6s all;
+}
+
+
+/*tête d'affiche*/
+
+header{
+	background: url(https://www.we-van.com/data/uploads//14-pyrenees-1.jpg);
+	background-size: 100%;
+	font-size: 70px;
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-bottom: 2px;
+}
+
+/*fonc d'ecrand de base du site
+
+header{
+	background: url(https://www.we-van.com/data/uploads//14-pyrenees-1.jpg);
+	background-size: 100%;
+	font-size: 70px;
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-bottom: 2px;
+}
+
+footer{
+	background-color: whitesmoke;
+}
+
+body{
+	background: url(https://tse1.mm.bing.net/th?id=OIP.ntx_dJhVwRnnIhlLVmgN-gHaLH&pid=Api&P=0&w=300&h=300);
+}
+
+/*bas de l'affiche*/
+
+footer{
+	background-color: whitesmoke;
+}
